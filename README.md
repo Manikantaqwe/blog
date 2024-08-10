@@ -36,14 +36,14 @@
             <article>
                 <h2>CSS Basics</h2>
                 <p>CSS is used to control the style of a web document in a simple and easy way...</p>
-               <a href="#">Read more</a>
+               <a href="inline2.html">Read more</a>
 
             </article>
             
             <article>
                 <h2>JavaScript for Beginners</h2>
                 <p>JavaScript is the programming language of the Web...</p>
-    <a href="#">Read more</a>
+    <a href="inline3.html">Read more</a>
 
             </article>
         </div>

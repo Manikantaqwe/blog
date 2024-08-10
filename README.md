@@ -30,7 +30,7 @@
             <article>
                 <h2>Getting Started with HTML</h2>
                 <p>HTML is the standard markup language for creating web pages...</p>
-               <a href="#">Read more</a>
+               <a href="inline.html">Read more</a>
             </article>
             
             <article>
